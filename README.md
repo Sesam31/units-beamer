@@ -8,3 +8,7 @@ I file sono distribuiti sotto licenza GPL v3, vedi file [licenza](https://github
 ![](https://github.com/Sesam31/units-beamer/blob/main/units-beamer/screenshot/1.png)
 
 ![](https://github.com/Sesam31/units-beamer/blob/main/units-beamer/screenshot/2.png)
+
+![](https://github.com/Sesam31/units-beamer/blob/main/units-beamer/screenshot/3.png)
+
+![](https://github.com/Sesam31/units-beamer/blob/main/units-beamer/screenshot/4.png)
